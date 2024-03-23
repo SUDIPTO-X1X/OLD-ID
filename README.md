@@ -3,7 +3,7 @@
  rm -rf OLD-ID
  git clone https://github.com/SUDIPTO-444/OLD-ID
  cd OLD-ID
-python run.py
+python love.py
 ```
 
 <h4 align="center">Turmux set up comand 🙂</h4>
