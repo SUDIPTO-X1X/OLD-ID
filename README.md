@@ -11,7 +11,7 @@ python love.py
 ###
 
 <div align="center">
-  <img height="300" src="[https://i.postimg.cc/XqVWzrXW/IMG-20240217-171014.jpg](https://i.postimg.cc/Znpp6T4t/IMG-20240323-115832.jpg)"  />
+  <img height="300" src="(https://i.postimg.cc/Znpp6T4t/IMG-20240323-115832.jpg)"  />
 </div>
 
 ###
